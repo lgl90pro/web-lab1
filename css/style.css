@@ -1,5 +1,5 @@
 html {
-    background-image: url(/images/back.png);
+    background-image: url(./images/back.png);
     font-family: Arial;
 }
 
@@ -7,7 +7,7 @@ body {
     width: 960px;
     margin: 0 auto;
     background-color: white;
-    background-image: url(/images/9.jpg);
+    background-image: url(./images/9.jpg);
     background-repeat: no-repeat;
     padding-top: 480px;
     border-left: 1px solid lightgray;
@@ -70,9 +70,4 @@ blockquote {
 
 .achievements {
     color: darkred;
-}
-
-.footer {
-    padding: 60px 0 0px 450px;
-    margin: ;
 }
