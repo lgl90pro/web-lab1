@@ -1,0 +1,78 @@
+html {
+    background-image: url(/images/back.png);
+    font-family: Arial;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    background-color: white;
+    background-image: url(/images/9.jpg);
+    background-repeat: no-repeat;
+    padding-top: 480px;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+figure {
+    text-align: center;
+    font-size: 18px;
+}
+
+div{
+    background-color: rgba(255, 255, 255, .4);
+    height: 80px;
+    box-shadow: rgba(0, 0, 0, .8) 0 1px 0;
+}
+
+h1 {
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    padding: 5px 5px;
+    text-shadow: blanchedalmond 2px 2px 2px;
+}
+
+h2, h3, h4, p, blockquote, ul {
+    font-style: italic;
+}
+
+h2 {
+     margin: 20px 25px 0 30px;
+     padding-top: 20px;
+     font-size: 21px;
+ }
+
+ h3 {
+    border-bottom: 2px solid darkslateblue;
+    margin: 20px 25px 0 30px;
+    padding-top: 20px;
+    font-size: 30px;
+    color: darkblue;
+}
+
+h4 {
+    margin: 20px 25px 0 30px;
+    font-size: 24px;
+    color: orangered;
+}
+
+p, ul {
+    font-size: 20px;
+    padding: 0 30px 0px 40px;
+    text-align: justify;
+}
+
+blockquote {
+    padding: 0 30px 0 30px;
+    font-size: 18px;
+}
+
+.achievements {
+    color: darkred;
+}
+
+.footer {
+    padding: 60px 0 0px 450px;
+    margin: ;
+}
